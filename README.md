@@ -1,6 +1,12 @@
 # javascript-project
 
+>JavaScript is the world's most popular programming language.
+
+>JavaScript is the programming language of the Web.
+
+>JavaScript is easy to learn.
+
+>This tutorial will teach you JavaScript from basic to advanced.
 
 
-
-<a href="https://manishdeveloper333.github.io/Projects/Javascript project- 6 box onclick.html">Project +orm </a>
+>JavaScript, often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS.
